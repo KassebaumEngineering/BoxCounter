@@ -3,13 +3,13 @@
 //
 // C++ Main Program for Linear Redundancy Calculations 
 //
-//  $Id: linear_redundancy.cc,v 1.1 1997/08/23 17:50:31 jak Exp $
+//  $Id: linear_redundancy.cc,v 1.1.1.1 1997/08/23 17:50:31 jak Exp $
 //
 //  Author: John Kassebaum
 //
 // $Log: linear_redundancy.cc,v $
-// Revision 1.1  1997/08/23 17:50:31  jak
-// Initial revision
+// Revision 1.1.1.1  1997/08/23 17:50:31  jak
+// BoxCounter disappeared from CVS ... this is a replacement. -jak
 //
 // Revision 1.4  1995/11/08 05:28:56  jak
 // Added back lost RCS variables. -jak
@@ -20,7 +20,7 @@
 //
 //
 
-static char rcsid_linear_redundancy_cc[] = "$Id: linear_redundancy.cc,v 1.1 1997/08/23 17:50:31 jak Exp $";
+static char rcsid_linear_redundancy_cc[] = "$Id: linear_redundancy.cc,v 1.1.1.1 1997/08/23 17:50:31 jak Exp $";
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -3,13 +3,13 @@
 //
 // C++ Implementation for the FastBoxCounter Class 
 //
-//  $Id: FastBoxCounter.cc,v 1.1 1997/08/23 17:50:31 jak Exp $
+//  $Id: FastBoxCounter.cc,v 1.1.1.1 1997/08/23 17:50:31 jak Exp $
 //
 //  Author: John Kassebaum
 //
 // $Log: FastBoxCounter.cc,v $
-// Revision 1.1  1997/08/23 17:50:31  jak
-// Initial revision
+// Revision 1.1.1.1  1997/08/23 17:50:31  jak
+// BoxCounter disappeared from CVS ... this is a replacement. -jak
 //
 // Revision 1.4  1995/11/08 05:28:53  jak
 // Added back lost RCS variables. -jak
@@ -20,7 +20,7 @@
 //
 //
 
-static char rcsid_FastBoxCounter_cc[] = "$Id: FastBoxCounter.cc,v 1.1 1997/08/23 17:50:31 jak Exp $";
+static char rcsid_FastBoxCounter_cc[] = "$Id: FastBoxCounter.cc,v 1.1.1.1 1997/08/23 17:50:31 jak Exp $";
 
 #include "FastBoxCounter.h"
 

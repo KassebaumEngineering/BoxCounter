@@ -3,13 +3,13 @@
 //
 // C++ Interface for the BoxCounter Class 
 //
-//  $Id: BoxCounter.h,v 1.1 1997/08/23 17:50:31 jak Exp $
+//  $Id: BoxCounter.h,v 1.1.1.1 1997/08/23 17:50:31 jak Exp $
 //
 //  Author: John Kassebaum
 //
 // $Log: BoxCounter.h,v $
-// Revision 1.1  1997/08/23 17:50:31  jak
-// Initial revision
+// Revision 1.1.1.1  1997/08/23 17:50:31  jak
+// BoxCounter disappeared from CVS ... this is a replacement. -jak
 //
 // Revision 1.3  1995/11/08 05:28:51  jak
 // Added back lost RCS variables. -jak
@@ -19,7 +19,7 @@
 // 
 //
 
-static char rcsid_BoxCounter_h[] = "$Id: BoxCounter.h,v 1.1 1997/08/23 17:50:31 jak Exp $";
+static char rcsid_BoxCounter_h[] = "$Id: BoxCounter.h,v 1.1.1.1 1997/08/23 17:50:31 jak Exp $";
 
 #ifndef _BoxCounter_h
 #define _BoxCounter_h

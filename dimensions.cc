@@ -3,13 +3,13 @@
 //
 // C++ Main Program for Generalized Dimensions Calculations 
 //
-//  $Id: dimensions.cc,v 1.1 1997/08/23 17:50:32 jak Exp $
+//  $Id: dimensions.cc,v 1.1.1.1 1997/08/23 17:50:32 jak Exp $
 //
 //  Author: John Kassebaum
 //
 // $Log: dimensions.cc,v $
-// Revision 1.1  1997/08/23 17:50:32  jak
-// Initial revision
+// Revision 1.1.1.1  1997/08/23 17:50:32  jak
+// BoxCounter disappeared from CVS ... this is a replacement. -jak
 //
 // Revision 1.9  1995/11/08 05:23:16  jak
 // Fixed loss of RCS variables! -jak
@@ -31,7 +31,7 @@
 //
 //
 
-static char rcsid_dimensions_cc[] = "$Id: dimensions.cc,v 1.1 1997/08/23 17:50:32 jak Exp $";
+static char rcsid_dimensions_cc[] = "$Id: dimensions.cc,v 1.1.1.1 1997/08/23 17:50:32 jak Exp $";
 
 #include "FastBoxCounter.h"
 

@@ -3,13 +3,13 @@
 //
 // C++ Main Program for Redundancy Calculations 
 //
-//  $Id: redundancy.cc,v 1.1 1997/08/23 17:50:33 jak Exp $
+//  $Id: redundancy.cc,v 1.1.1.1 1997/08/23 17:50:33 jak Exp $
 //
 //  Author: John Kassebaum
 //
 // $Log: redundancy.cc,v $
-// Revision 1.1  1997/08/23 17:50:33  jak
-// Initial revision
+// Revision 1.1.1.1  1997/08/23 17:50:33  jak
+// BoxCounter disappeared from CVS ... this is a replacement. -jak
 //
 // Revision 1.4  1995/11/08 05:28:57  jak
 // Added back lost RCS variables. -jak
@@ -20,7 +20,7 @@
 //
 //
 
-static char rcsid_redundancy_cc[] = "$Id: redundancy.cc,v 1.1 1997/08/23 17:50:33 jak Exp $";
+static char rcsid_redundancy_cc[] = "$Id: redundancy.cc,v 1.1.1.1 1997/08/23 17:50:33 jak Exp $";
 
 #include "FastBoxCounter.h"
 

@@ -3,13 +3,13 @@
 //
 // C++ Interface for the FastBoxCounter Class 
 //
-//  $Id: FastBoxCounter.h,v 1.1 1997/08/23 17:50:32 jak Exp $
+//  $Id: FastBoxCounter.h,v 1.1.1.1 1997/08/23 17:50:32 jak Exp $
 //
 //  Author: John Kassebaum
 //
 /* $Log: FastBoxCounter.h,v $
-/* Revision 1.1  1997/08/23 17:50:32  jak
-/* Initial revision
+/* Revision 1.1.1.1  1997/08/23 17:50:32  jak
+/* BoxCounter disappeared from CVS ... this is a replacement. -jak
 /*
  * Revision 1.5  1995/11/08 05:32:31  jak
  * Hmmm .. not a mistake after all ... CVS thinks this is straight C - oh well. -jak
@@ -25,7 +25,7 @@
  */
 //
 
-static char rcsid_FastBoxCounter_h[] = "$Id: FastBoxCounter.h,v 1.1 1997/08/23 17:50:32 jak Exp $";
+static char rcsid_FastBoxCounter_h[] = "$Id: FastBoxCounter.h,v 1.1.1.1 1997/08/23 17:50:32 jak Exp $";
 
 #ifndef _FastBoxCounter_h
 #define _FastBoxCounter_h
