@@ -56,10 +56,10 @@ cal_du: cal_du.c
 	$(CC) -o cal_du cal_du.c
 
 tarfile: $(SOURCES)
-	rm -f BoxCounter.tar.gz
+	rm -f BoxCounter.tar.bz2
 	mkdir BoxCounter
 	cp $(SOURCES) BoxCounter
-	tar crf - BoxCounter | gzip -c > BoxCounter.tar.gz
+	tar cf - BoxCounter | bzip2 > BoxCounter.tar.bz2
 	rm -rf BoxCounter
 	touch tarfile
 
